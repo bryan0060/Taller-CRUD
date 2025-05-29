@@ -1,6 +1,6 @@
 🎓 Sistema de Registro de Profesores
 <div align="center">
-[Mostrar imagen](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Mostrar imagen](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 Mostrar imagen
 Mostrar imagen
 Mostrar imagen
